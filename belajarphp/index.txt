@@ -1,0 +1,4 @@
+untuk menggunakan php kita harus menulis perintah terlebih dahulu pada terminal vs code :
+1. php -S localhost:8000
+menjalankan pada chrome dengan perintah :
+1.http://localhost:8000/nama file
